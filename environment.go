@@ -26,7 +26,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/caddyserver/xcaddy/internal/utils"
+	"github.com/puleeno/xcaddy/internal/utils"
 	"github.com/google/shlex"
 )
 

@@ -13,12 +13,12 @@ Stay updated, be aware of changes, and please submit feedback! Thanks!
 
 ## Install
 
-You can [download binaries](https://github.com/caddyserver/xcaddy/releases) that are already compiled for your platform from the Release tab. 
+You can [download binaries](https://github.com/puleeno/xcaddy/releases) that are already compiled for your platform from the Release tab. 
 
 You may also build `xcaddy` from source:
 
 ```bash
-$ go install github.com/caddyserver/xcaddy/cmd/xcaddy@latest
+$ go install github.com/puleeno/xcaddy/cmd/xcaddy@latest
 ```
 
 For Debian, Ubuntu, and Raspbian, an `xcaddy` package is available from our [Cloudsmith repo](https://cloudsmith.io/~caddy/repos/xcaddy/packages/):
